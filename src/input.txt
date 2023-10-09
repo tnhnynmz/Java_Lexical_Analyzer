@@ -1,0 +1,11 @@
+number_1++=-number2++;//asdasd25++;
+Float;
+test++>=;
+number5"=-number4;
+number3=5;
+number=number_1-25;
+"str";
+while;
+int;/*asdadsadad
+float;*/
+({()a);
